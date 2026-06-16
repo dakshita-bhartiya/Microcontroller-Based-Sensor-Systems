@@ -30,41 +30,51 @@ Microcontroller-Based-Sensor-Systems
 
 Detection of combustible gases using the MQ-2 gas sensor module with real-time monitoring and threshold-based alert generation.
 
+
 ### Flame Detection System
 
 Fire and flame sensing using an infrared flame sensor module for safety monitoring applications.
+
 
 ### Water Level Monitoring
 
 Liquid level detection and monitoring using a water level sensor for automation and environmental sensing applications.
 
+
 ### PIR-Based Motion Detection
 
 Human motion detection using a Passive Infrared (PIR) sensor for security and occupancy monitoring systems.
+
 
 ### Sound Detection System
 
 Acoustic event detection using a sound sensor module for sound-triggered embedded applications.
 
+
 ### Touch Sensor Interface
 
 Capacitive touch sensing implementation for user interaction and control applications.
+
 
 ### LDR-Based Light Monitoring
 
 Ambient light intensity measurement using a Light Dependent Resistor (LDR) and Arduino ADC.
 
+
 ### Potentiometer ADC Input
 
 Analog voltage acquisition and ADC interfacing using a potentiometer for sensor calibration and control applications.
+
 
 ### LCD Display Interface
 
 16×2 LCD interfacing using parallel communication for real-time data display.
 
+
 ### I2C LCD Interface
 
 16×2 LCD interfacing using the I2C communication protocol to reduce GPIO utilization.
+
 
 ### Push Button Input Handling
 
