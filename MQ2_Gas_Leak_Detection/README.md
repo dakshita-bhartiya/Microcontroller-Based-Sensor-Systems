@@ -103,6 +103,8 @@ Observe the activation of the LED and buzzer when gas is detected.
 ### Working Video
 
 
+▶ [Watch Project Demo](VideoMQ2demo.mp4)
+
 
 ---
 
