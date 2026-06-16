@@ -39,19 +39,35 @@ This project implements a gas leak detection and alert system using the MQ-2 gas
 
 ---
 
-## Circuit Diagram
-
-![Circuit Diagram](images/circuit_diagram.png)
-
 ---
 
 ## Arduino Code
 
-See:
+void setup() {
+  pinMode(7,OUTPUT);
+  pinMode(6,OUTPUT);
+  pinMode(8,INPUT);
+  Serial.begin(9600);
+}
 
-```text
-mq2_gas_leak_detection.ino
-```
+void loop() {
+  int x =digitalRead(8);
+  Serial.println(x);
+  if (x==0)
+  {
+    digitalWrite(6,HIGH);
+    digitalWrite(7,HIGH);
+  }
+  else
+  {
+    digitalWrite(6,LOW);
+    digitalWrite(7,LOW);
+  }
+  
+
+}
+
+
 
 ---
 
