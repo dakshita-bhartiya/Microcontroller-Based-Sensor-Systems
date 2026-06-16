@@ -42,7 +42,7 @@ This project implements a gas leak detection and alert system using the MQ-2 gas
 ---
 
 ## Arduino Code
-
+---cpp
 void setup() {
   pinMode(7,OUTPUT);
   pinMode(6,OUTPUT);
@@ -67,7 +67,7 @@ void loop() {
 
 }
 
-
+---
 
 ---
 
