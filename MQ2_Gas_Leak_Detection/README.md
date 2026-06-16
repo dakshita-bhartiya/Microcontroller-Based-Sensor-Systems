@@ -43,7 +43,7 @@ This project implements a gas leak detection and alert system using the MQ-2 gas
 
 ## Arduino Code
 
----cpp
+```cpp
 void setup() {
   pinMode(7,OUTPUT);
   pinMode(6,OUTPUT);
@@ -52,9 +52,10 @@ void setup() {
 }
 
 void loop() {
-  int x =digitalRead(8);
+  int x = digitalRead(8);
   Serial.println(x);
-  if (x==0)
+
+  if (x == 0)
   {
     digitalWrite(6,HIGH);
     digitalWrite(7,HIGH);
@@ -64,11 +65,8 @@ void loop() {
     digitalWrite(6,LOW);
     digitalWrite(7,LOW);
   }
-  
-
 }
-
----
+```
 
 ## Working Principle
 
