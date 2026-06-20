@@ -112,8 +112,7 @@ Observe the LED response and serial monitor output.
 ---
 
 ## Demonstration
-
-🎥 [Watch Demo Video](touchsensnorwithled.mp4)
+🎥 [Watch Demo Video](https://github.com/dakshita-bhartiya/Microcontroller-Based-Sensor-Systems/blob/main/Touch_Sensor_Interface/touchsensnorwithled.mp4)
 ---
 
 ## Applications
