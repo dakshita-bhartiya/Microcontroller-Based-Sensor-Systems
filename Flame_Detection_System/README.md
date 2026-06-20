@@ -116,7 +116,7 @@ Observe the LED response and serial monitor output.
 ---
 
 ## Demonstration
-▶ [Watch Project Demo](flamesensorwithledvideo)
+🎥 [Watch Demo Video](flamesensorwithledvideo.mp4)
 
 
 
