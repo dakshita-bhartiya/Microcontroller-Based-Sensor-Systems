@@ -133,8 +133,7 @@ Dakshita
 
 ## Demonstration
 
-📷 Project image/video will be added soon.
-
+🎥 [Watch Demo Video](./lcddisplayvideo.mp4)
 ---
 
 ## Applications
