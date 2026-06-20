@@ -109,8 +109,7 @@ Name-Dakshita,14
 
 ## Demonstration
 
-📷 Project image will be added soon.
-
+![I2C LCD Demonstration](lcddisplayphoto.jpg)
 ---
 
 ## Applications
