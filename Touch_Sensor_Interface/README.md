@@ -113,7 +113,7 @@ Observe the LED response and serial monitor output.
 
 ## Demonstration
 
-🎥 [Watch Demo Video](./touchsenssorwithled.mp4)
+🎥 [Watch Demo Video](./touchsensnorwithled.mp4)
 
 ---
 
