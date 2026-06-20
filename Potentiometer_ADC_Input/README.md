@@ -151,7 +151,7 @@ Observe the LED level indication corresponding to the potentiometer position.
 
 ## Demonstration
 
-## Demonstration
+
 
 🎥 [Watch Demo Video](./potentiometerwithledvideo.mp4)
 
