@@ -118,7 +118,7 @@ Observe the change in LED state and sensor readings.
 
 ## Demonstration
 
-🎥 [Watch Demo Video](./YOUR_VIDEO_FILENAME.mp4)
+🎥 [Watch Demo Video](ldrwithled.mp4)
 
 ---
 
