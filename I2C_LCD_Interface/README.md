@@ -109,7 +109,7 @@ Name-Dakshita,14
 
 ## Demonstration
 
-![I2C LCD Demonstration](lcddisplayphoto.jpg)
+![I2C LCD Demonstration](lcddisplayphoto.jpeg)
 ---
 
 ## Applications
